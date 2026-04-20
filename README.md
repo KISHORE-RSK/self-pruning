@@ -1,1 +1,1 @@
-# self-pruning
+# self-pruning-neural-network
